@@ -11,5 +11,6 @@ idea’s feasibility. Up-to-date developed and developing automated systems to a
 aerospace collisions, such as TCAS and ASAS, are also reviewed to provide a
 general sight of technology applications at present or in the near future. Finally,
 the thesis presents several directions to automatically solve existing air traffic
-problems using AI techniques in recent studies.
+problems using AI techniques in recent studies.  
 
+https://github.com/phihd/DS_bachelor_thesis/blob/main/AI_and_intelligent_automation_in_aerospace_applications.pdf
